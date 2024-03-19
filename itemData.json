@@ -1,0 +1,313 @@
+{
+  "foods": [
+    {
+      "item_name": "Dragonfire Stew",
+      "visual_description": "A bubbling cauldron filled with a thick, hearty stew, emitting wisps of steam infused with a reddish hue. Chunks of tender meat and colorful vegetables float within.",
+      "flavour_text": "Legend has it that the fiery breath of dragons imbues this stew with its warmth and potency, making it a favorite among adventurers seeking respite from the cold of the wilderness.",
+      "stats": {
+        "health": 25
+      },
+      "cost": {
+        "gold": 3,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Elven Waybread",
+      "visual_description": "A thin, golden-brown loaf of bread adorned with intricate designs of elvish script. It emanates a faint, floral aroma.",
+      "flavour_text": "Crafted by the skilled hands of elven bakers, this bread is renowned for its ability to sustain travelers on long journeys without spoiling.",
+      "stats": {
+        "health": 20
+      },
+      "cost": {
+        "gold": 2,
+        "silver": 0
+      }
+    },
+    {
+      "item_name": "Goblin Gumbo",
+      "visual_description": "A murky stew filled with unidentifiable chunks of meat and slimy vegetables, emitting a pungent odor that could make even the most adventurous eater hesitate.",
+      "flavour_text": "Popular among goblin tribes, this concoction is not for the faint of heart. Only the bravest souls dare to sample its dubious delights.",
+      "stats": {
+        "health": 15
+      },
+      "cost": {
+        "gold": 1,
+        "silver": 25
+      }
+    },
+    {
+      "item_name": "Dwarven Ale Pie",
+      "visual_description": "A hearty pie with a golden-brown crust, filled to the brim with chunks of tender meat soaked in a rich, dark ale gravy.",
+      "flavour_text": "A favorite among dwarven miners, this pie is the perfect combination of savory flavors and robust ale, guaranteed to satisfy even the heartiest of appetites.",
+      "stats": {
+        "health": 30
+      },
+      "cost": {
+        "gold": 4,
+        "silver": 75
+      }
+    },
+    {
+      "item_name": "Faerie Fruit Salad",
+      "visual_description": "A vibrant assortment of exotic fruits arranged in an intricate pattern, adorned with shimmering dust that glimmers like starlight.",
+      "flavour_text": "Blessed by the touch of faeries, this salad is as enchanting to behold as it is delightful to taste. Each bite fills the eater with a sense of vitality and wonder.",
+      "stats": {
+        "health": 10
+      },
+      "cost": {
+        "gold": 2,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Troll's Toe Soup",
+      "visual_description": "A thick, viscous soup with a sickly green hue, filled with chunks of meat and vegetables that seem to writhe and squirm in the broth.",
+      "flavour_text": "Rumored to be made from the toes of trolls, this soup is not for the faint of heart. Only the bravest dare to sample its foul flavors.",
+      "stats": {
+        "health": 20
+      },
+      "cost": {
+        "gold": 3,
+        "silver": 0
+      }
+    },
+    {
+      "item_name": "Mermaid's Kiss",
+      "visual_description": "A delicate pastry filled with creamy custard, topped with a glaze made from seaweed extract and adorned with a single pearl.",
+      "flavour_text": "Whispered to be a gift from the sea itself, this pastry is as enchanting to taste as it is beautiful to behold. Each bite carries the salty tang of the ocean and the sweetness of forbidden indulgence.",
+      "stats": {
+        "health": 15
+      },
+      "cost": {
+        "gold": 2,
+        "silver": 75
+      }
+    },
+    {
+      "item_name": "Phoenix Wing Soup",
+      "visual_description": "A fiery broth filled with tender phoenix wings, simmered with aromatic spices that tingle the senses.",
+      "flavour_text": "Said to possess the rejuvenating essence of the phoenix, this soup is believed to grant those who partake in it a taste of immortality.",
+      "stats": {
+        "health": 35
+      },
+      "cost": {
+        "gold": 5,
+        "silver": 25
+      }
+    },
+    {
+      "item_name": "Wyvern Steak",
+      "visual_description": "A thick, juicy steak grilled to perfection, adorned with a tangy wyvern sauce made from rare spices and herbs.",
+      "flavour_text": "Feared by many, coveted by some, the wyvern steak is a delicacy reserved for the bravest of souls. Each bite is a test of courage and resilience.",
+      "stats": {
+        "health": 40
+      },
+      "cost": {
+        "gold": 6,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Feywild Fritters",
+      "visual_description": "Golden-brown fritters bursting with the flavors of the Feywild, filled with a sweet and savory mixture of wild berries and enchanted cheese.",
+      "flavour_text": "Forged in the heart of the Feywild, these fritters are said to carry the essence of magic itself. Each bite is a journey into the realm of dreams and wonder.",
+      "stats": {
+        "health": 25
+      },
+      "cost": {
+        "gold": 4,
+        "silver": 0
+      }
+    }
+  ],
+  "drinks": [
+    {
+      "item_name": "Arcane Ale",
+      "visual_description": "A frothy blue ale served in a sturdy tankard, shimmering with faint traces of arcane energy.",
+      "flavour_text": "Brewed by skilled mages, this ale is as invigorating as it is mysterious, leaving a tingling sensation on the drinker's tongue.",
+      "stats": {
+        "mana": 50
+      },
+      "cost": {
+        "gold": 5,
+        "silver": 0
+      }
+    },
+    {
+      "item_name": "Dwarven Firewhiskey",
+      "visual_description": "A fiery-red whiskey served in a thick glass, its robust aroma hinting at the strength of dwarven craftsmanship.",
+      "flavour_text": "A favorite among dwarven warriors, this whiskey burns like dragonfire, warming the belly and fortifying the spirit.",
+      "stats": {
+        "mana": 30
+      },
+      "cost": {
+        "gold": 3,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Feywine",
+      "visual_description": "A sparkling green wine served in a delicate glass, its effervescence reminiscent of dancing faerie lights.",
+      "flavour_text": "Harvested from grapes grown in the Feywild, this wine is said to enhance the drinker's connection to nature and the mystical energies of the world.",
+      "stats": {
+        "mana": 40
+      },
+      "cost": {
+        "gold": 4,
+        "silver": 75
+      }
+    },
+    {
+      "item_name": "Shadow Stout",
+      "visual_description": "A dark, velvety stout served in a heavy mug, its rich aroma carrying notes of roasted coffee and bitter chocolate.",
+      "flavour_text": "Brewed in the shadowy depths of ancient forests, this stout is said to grant the drinker heightened senses and the ability to see through darkness.",
+      "stats": {
+        "mana": 60
+      },
+      "cost": {
+        "gold": 7,
+        "silver": 0
+      }
+    },
+    {
+      "item_name": "Moonlit Mead",
+      "visual_description": "A golden-hued mead served in a goblet adorned with lunar motifs, its sweet aroma carrying hints of honey and moonlight.",
+      "flavour_text": "Brewed under the light of the full moon, this mead is said to imbue the drinker with the blessings of Selûne, granting them clarity of mind and inspiration.",
+      "stats": {
+        "mana": 35
+      },
+      "cost": {
+        "gold": 4,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Celestial Cider",
+      "visual_description": "A crisp cider served in a wooden tankard, its golden hue reminiscent of sunlight filtering through leaves.",
+      "flavour_text": "Pressed from apples blessed by celestial beings, this cider is said to bring peace and serenity to those who drink it.",
+      "stats": {
+        "mana": 45
+      },
+      "cost": {
+        "gold": 5,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Siren's Sip",
+      "visual_description": "A deep blue drink served in a seashell-shaped glass, its sweet aroma reminiscent of ocean breezes and distant shores.",
+      "flavour_text": "Crafted from rare ingredients found deep beneath the waves, this drink is said to awaken latent talents and grant the drinker the voice of a siren, capable of captivating all who hear it.",
+      "stats": {
+        "mana": 55
+      },
+      "cost": {
+        "gold": 6,
+        "silver": 25
+      }
+    },
+    {
+      "item_name": "Phoenix Flame Whiskey",
+      "visual_description": "A fiery red whiskey served in a thick glass, its intense heat tempered by a smooth finish.",
+      "flavour_text": "Said to be distilled from the flames of a phoenix, this whiskey possesses unparalleled strength and vitality, igniting the spirit of those who partake.",
+      "stats": {
+        "mana": 70
+      },
+      "cost": {
+        "gold": 8,
+        "silver": 0
+      }
+    },
+    {
+      "item_name": "Astral Brew",
+      "visual_description": "A translucent drink served in a glass, shimmering with prismatic light that seems to defy the laws of reality.",
+      "flavour_text": "Crafted by skilled brewers from ethereal ingredients found in the Astral Plane, this brew grants the drinker a heightened sense of awareness and a fleeting glimpse into the mysteries of existence.",
+      "stats": {
+        "mana": 65
+      },
+      "cost": {
+        "gold": 7,
+        "silver": 50
+      }
+    },
+    {
+      "item_name": "Stardust Stout",
+      "visual_description": "A dark stout served in a heavy mug, its velvety texture and rich flavor reminiscent of the night sky.",
+      "flavour_text": "Infused with the essence of distant stars, this stout is said to grant the drinker visions of cosmic wonders and the wisdom of the cosmos.",
+      "stats": {
+        "mana": 50
+      },
+      "cost": {
+        "gold": 6,
+        "silver": 0
+      }
+    }
+  ],
+  "specials": [
+    {
+      "item_name": "Ethereal Essence Pie",
+      "visual_description": "A pie with a shimmering, translucent crust, filled with ethereal fruits that seem to flicker in and out of existence. The aroma is a mix of exotic spices and the scent of distant realms.",
+      "flavour_text": "Forged by the hands of a master baker who journeyed through the Astral Plane, each bite of this pie grants the eater glimpses of otherworldly wonders and a sense of transcendent clarity.",
+      "stats": {
+        "wisdom": 35
+      },
+      "rarity": "Unique",
+      "cost": {
+        "gold": 57,
+        "silver": 45
+      }
+    },
+    {
+      "item_name": "Shadowbane Ale",
+      "visual_description": "A dark ale served in a chalice carved from obsidian, its surface rippling with shifting shadows. The air around it seems to grow colder as one approaches.",
+      "flavour_text": "Forged in the depths of the Underdark, this ale grants the drinker the strength to overcome even the most formidable foes, bolstering their resolve with the power to banish darkness.",
+      "stats": {
+        "agility": 15
+      },
+      "rarity": "Legendary",
+      "cost": {
+        "gold": 70,
+        "silver": 85
+      }
+    },
+    {
+      "item_name": "Flameheart Steak",
+      "visual_description": "A sizzling steak infused with fiery spices, its surface seared to perfection. Flames dance along its edges, and the meat emits a tantalizing aroma.",
+      "flavour_text": "Prepared over an open flame by master chefs, this steak kindles the flame within the eater's heart, granting them the courage to face any challenge with unyielding resolve.",
+      "stats": {
+        "vitality": 20
+      },
+      "rarity": "Legendary",
+      "cost": {
+        "gold": 83,
+        "silver": 10
+      }
+    },
+    {
+      "item_name": "Elixir of Ethereal Sight",
+      "visual_description": "A shimmering potion contained in a vial etched with arcane runes, its contents swirling with otherworldly hues. Gazing into it feels like peering through the veil of reality itself.",
+      "flavour_text": "Brewed by sage alchemists from rare ingredients harvested in the Astral Plane, this elixir grants the drinker the ability to perceive ethereal beings and see beyond the material realm.",
+      "stats": {
+        "perception": 25
+      },
+      "rarity": "Mythical",
+      "cost": {
+        "gold": 149,
+        "silver": 99
+      }
+    },
+    {
+      "item_name": "Draught of Dragon's Breath",
+      "visual_description": "A crimson potion contained in a vial adorned with dragon scales, its contents bubbling with primal energy. Wisps of smoke rise from the surface, forming shapes reminiscent of roaring flames.",
+      "flavour_text": "Brewed from the blood of ancient dragons and infused with the essence of fire, this potion grants the drinker the ability to unleash the fury of a dragon's breath, incinerating their foes with righteous fury.",
+      "stats": {
+        "intelligence": 30
+      },
+      "rarity": "Mythical",
+      "cost": {
+        "gold": 135,
+        "silver": 49
+      }
+    }
+  ]
+}
